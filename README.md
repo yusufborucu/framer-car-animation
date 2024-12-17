@@ -2,6 +2,11 @@
 
 This project is built using **Vite** and **React**, featuring an animated car using **Framer Motion**.
 
+## Live Demo
+
+You can view the live demo of this project here:  
+[Demo](https://yb-framer-car-animation.netlify.app)
+
 ## Installation
 
 To run this project locally, follow these steps:
